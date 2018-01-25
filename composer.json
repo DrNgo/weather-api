@@ -1,0 +1,16 @@
+{
+    "name": "michaelngo/weather",
+    "description": "basic api for getting weather",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michael Ngo",
+            "email": "michaeln56@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "slim/slim": "^3.0",
+        "phpunit/phpunit": "^6.5"
+    }
+}
