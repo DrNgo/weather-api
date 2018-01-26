@@ -5,7 +5,6 @@ Get current weather via zip code using http://openweathermap.org API
 
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-  - [Development Environmental Variables](#development-environmental-variables)
 - [Services](#services)
   - [Start services](#start-services)
   - [Stopping services](#stopping-services)
