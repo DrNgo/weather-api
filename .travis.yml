@@ -1,1 +1,16 @@
 language: php
+php:
+  - '7.1'
+dist: trusty
+cache:
+  directories:
+  - $HOME/.composer/cache/files
+install:
+  - ant
+script:
+  - phpunit
+addons:
+  code_climate:
+    repo_token: 15118dc5c9a552d21e8c05a802d2536c687f1179500fc412582b8d25f3797a4a
+after_success:
+  - vendor/bin/test-reporter

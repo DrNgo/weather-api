@@ -14,5 +14,8 @@
         "phpunit/phpunit": "^6.5",
         "theseer/autoload": "^1.24",
         "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "codeclimate/php-test-reporter": "^0.4.4"
     }
 }
