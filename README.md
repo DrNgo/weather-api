@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/DrNgo/weather-api.svg?branch=master)](https://travis-ci.org/DrNgo/weather-api)
+[![Maintainability](https://api.codeclimate.com/v1/badges/03f2cf075d35276b23a5/maintainability)](https://codeclimate.com/github/DrNgo/weather-api/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/03f2cf075d35276b23a5/test_coverage)](https://codeclimate.com/github/DrNgo/weather-api/test_coverage)
 # weather-api
 Get current weather via zip code using http://openweathermap.org API
 
