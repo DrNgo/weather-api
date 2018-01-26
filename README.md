@@ -20,6 +20,7 @@ The guide assumes that you are using a Mac for development.
 
 - Install [Docker for Mac](https://docs.docker.com/engine/installation/mac/)
 - Install [Apache Ant](http://ant.apache.org/index.html) 
+- Install [Composer](https://getcomposer.org/download/) 
 - Get API key from http://openweathermap.org
 
 ## Getting Started
