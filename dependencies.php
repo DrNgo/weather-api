@@ -12,7 +12,7 @@ $container['errorHandler'] = function ($c) {
         if(get_class($exception) == 'Exceptions\ZipNotFound'){
             return $c['response']->withStatus(404)
                 ->withHeader('Content-Type', 'text/html')
-                ->write($exception->getMessage().'test');
+                ->write($exception->getMessage());
         }
         return $c['response']->withStatus(500)
             ->withHeader('Content-Type', 'text/html')
