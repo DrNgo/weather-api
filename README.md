@@ -33,6 +33,8 @@ To get started run the following:
 - Ensure services are started (see [Services](#services))
   - `$ docker-compose ps`
 
+## Getting Started
+
 ### Start services
 
 - For the very first time
